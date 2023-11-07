@@ -15,4 +15,4 @@
 </p>
 
 <h3 align="left">Tech stack that I know nad practice</h3>
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,mongodb,git,docker,linux,idea,maven,kubernetes,postman,html,css,cpp,csfigma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,mongodb,git,docker,linux,idea,maven,kubernetes,postman,html,css,cpp,cs)](https://skillicons.dev)
