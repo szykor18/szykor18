@@ -55,3 +55,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
   <a href="https://www.w3schools.com/cpp/" target
+
+  ![image](https://github.com/szykor18/szykor18/assets/115345580/0b071e3e-007e-43a4-92d3-195598c8355d)
+
