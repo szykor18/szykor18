@@ -1,9 +1,10 @@
-<h3 align="center">Hi 👋, I'm Szymon</h3>
-<h4 align="center">An ambitious computer science student.</h4>
+<h3>Hi 👋, I'm Szymon</h3>
+<h4>An ambitious computer science student.</h4>
+![DALL·E 2023-11-08 00 06 52 - An elegant, professional-looking image of a programmer typing code on a computer in a minimalist and modern workspace  The programmer is focused and i](https://github.com/szykor18/szykor18/assets/115345580/8e4cda22-0869-423a-8d36-34e127663d43)
 
 - 🔭 I’m currently working on [Lottery](https://github.com/szykor18/Lottery)
 
-- 🌱 I practice mainly **Java, Spring Framework** to become an expert
+- 🌱 I practice mainly **Java and Spring Framework** to become an expert
 
 - 👨‍💻 All of my projects are available at [https://szymonkornik.com](https://szymonkornik.com)
 
