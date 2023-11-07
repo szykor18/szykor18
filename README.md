@@ -1,6 +1,6 @@
 <h3>Hi 👋, I'm Szymon</h3>
 <h4>An ambitious computer science student.</h4>
-<img align="right" src = ["https://github.com/szykor18/szykor18/assets/115345580/8e4cda22-0869-423a-8d36-34e127663d43](https://www.canva.com/design/DAFzh1nwKaA/70w-hxfxWGrTD3PqVIxtgQ/watch?utm_content=DAFzh1nwKaA&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)" width="200">
+<img align="right" src ="https://github.com/szykor18/szykor18/assets/115345580/8e4cda22-0869-423a-8d36-34e127663d43](https://www.canva.com/design/DAFzh1nwKaA/70w-hxfxWGrTD3PqVIxtgQ/watch?utm_content=DAFzh1nwKaA&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel" width="200">
 
 - 🔭 I’m currently working on [Lottery](https://github.com/szykor18/Lottery)
 
