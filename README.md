@@ -13,6 +13,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-
-<h3 align="left">Tech stack that I know nad practice</h3>
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,mongodb,git,docker,linux,idea,maven,kubernetes,postman,html,css,cpp,cs)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,mongodb,git,docker,linux,idea,maven,kubernetes,postman,html,css,cpp,cs" />
+  </a>
+</p>
