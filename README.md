@@ -1,6 +1,6 @@
 <h3>Hi 👋, I'm Szymon</h3>
 <h4>An ambitious computer science student.</h4>
-<img align="right" src = "https://github.com/szykor18/szykor18/assets/115345580/8e4cda22-0869-423a-8d36-34e127663d43">
+<img align="right" src = "https://github.com/szykor18/szykor18/assets/115345580/8e4cda22-0869-423a-8d36-34e127663d43" width="200">
 
 - 🔭 I’m currently working on [Lottery](https://github.com/szykor18/Lottery)
 
