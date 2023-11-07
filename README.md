@@ -10,11 +10,13 @@
 
 - 📫 How to reach me **szymonkornik.bs@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Tech stack that I know and practice</h3>
 <p align="left">
 </p>
+<hr>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,mongodb,git,docker,linux,idea,maven,kubernetes,postman,html,css,cpp,cs" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,mongodb,git,docker,linux,idea,maven,kubernetes,html,css,cpp,cs" />
   </a>
 </p>
+<hr>
