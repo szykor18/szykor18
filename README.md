@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Lottery](https://github.com/szykor18/Lottery)
 
-- 🌱 I’m currently learning **Java, Spring Framework to become an expert**
+- 🌱 I practice mainly **Java, Spring Framework** to become an expert
 
 - 👨‍💻 All of my projects are available at [https://szymonkornik.com](https://szymonkornik.com)
 
@@ -55,7 +55,5 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
   <a href="https://www.w3schools.com/cpp/" target
-
-  ![Bez tytułu](https://github.com/szykor18/szykor18/assets/115345580/0db96063-04a3-4b06-bb80-8321efcf4521)
 
 
