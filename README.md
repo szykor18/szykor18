@@ -2,7 +2,7 @@
 <h4>An ambitious computer science student.</h4>
 <img align="right" src ="https://github.com/szykor18/szykor18/assets/115345580/0ef02376-060c-49a2-ae24-eb2dee73e4f1" width="350">
 
-- 🔭 I’m currently working on [Lottery](https://github.com/szykor18/Lottery)
+- 🔭 I’m currently working on [Lottery](https://github.com/szykor18/Lottery) and [JobOffers](https://github.com/szykor18/JobOffers)
 
 - 🌱 I practice mainly **Java and Spring Framework** to become an expert
 
