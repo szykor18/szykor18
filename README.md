@@ -6,7 +6,7 @@
 
 - 🌱 I practice mainly **Java and Spring Framework** to become an expert
 
-- 👨‍💻 All of my projects are available at [https://szymonkornik.com](https://szymonkornik.com)
+- 👨‍💻 My portfolio: [https://szymonkornik.com](https://szymonkornik.com)
 
 - 📫 How to reach me **szymonkornik.bs@gmail.com**
 
