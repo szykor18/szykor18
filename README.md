@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **szymonkornik.bs@gmail.com**
 
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
 <h3 align="left">Tech stack that I know and practice</h3>
 <p align="left">
 </p>
