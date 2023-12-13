@@ -22,6 +22,6 @@
     <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,mongodb,git,docker,linux,idea,maven,html,css" />
   </a>
 </p>
-<hr>
-![Szymon's GitHub stats](https://github-readme-stats.vercel.app/api?username=szykor18&show_icons=true&theme=gotham)
+<!-- <hr> -->
+<!-- ![Szymon's GitHub stats](https://github-readme-stats.vercel.app/api?username=szykor18&show_icons=true&theme=gotham) -->
 <hr>
