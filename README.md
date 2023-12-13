@@ -23,5 +23,5 @@
   </a>
 </p>
 <hr>
-(https://github-readme-stats.vercel.app/api?username=szykor18)](https://github.com/anuraghazra/github-readme-stats)
+[![Szykor18's GitHub stats](https://github-readme-stats.vercel.app/api?username=szykor18)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
