@@ -1,5 +1,5 @@
 <h3>Hi 👋, I'm Szymon</h3>
-<h4>An ambitious computer science student.</h4>
+<h4>An ambitious Software Engineer</h4>
 
 ![](https://komarev.com/ghpvc/?username=szykor18)
 
