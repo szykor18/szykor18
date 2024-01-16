@@ -9,8 +9,6 @@
 
 - 🌱 I practice mainly **Java and Spring Framework** to become an expert
 
-- 👨‍💻 My portfolio: [https://szymonkornik.com](https://szymonkornik.com)
-
 - 📫 How to reach me **szymonkornik.bs@gmail.com**
 
 <h3 align="left">Tech stack that I know and practice</h3>
