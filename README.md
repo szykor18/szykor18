@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=szykor18)
 
-<img align="right" src ="https://github.com/szykor18/szykor18/assets/115345580/0ef02376-060c-49a2-ae24-eb2dee73e4f1" width="350">
+<img align="right" width = 300px src ="https://github.com/szykor18/szykor18/assets/115345580/0ef02376-060c-49a2-ae24-eb2dee73e4f1" width="350">
 
 - 🔭 My latest projects: [Lottery](https://github.com/szykor18/Lottery) and [JobOffers](https://github.com/szykor18/JobOffers)
 
