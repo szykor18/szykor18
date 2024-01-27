@@ -27,6 +27,5 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=szykor18&layout=compact&theme=dark&hide_border=true" height="120"/>
   <img src="https://streak-stats.demolab.com?user=szykor18&locale=en&mode=daily&theme=dark&hide_border=true&date_format=j M[ Y]" height="120" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=szykor18&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="121" alt="stats graph"  />
 </div>
 
