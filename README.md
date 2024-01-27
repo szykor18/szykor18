@@ -23,3 +23,6 @@
 <!-- <hr> -->
 <!-- ![Szymon's GitHub stats](https://github-readme-stats.vercel.app/api?username=szykor18&show_icons=true&theme=gotham) -->
 <hr>
+<p>Stats</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=szykor18)](https://github.com/anuraghazra/github-readme-stats)
+
