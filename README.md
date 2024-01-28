@@ -29,7 +29,6 @@
 <hr>
 <div>
   <p>It is the language that chooses the programmer, not the other way around :)</p>
-  <img src="https://drive.google.com/file/d/14o-v7wgaNLmv3L3RJ01_G5O39O3Q5SQt/view?usp=sharing" />
 </div>
-
+![Film bez tytułu ‐ Wykonano za pomocą Clipchamp](https://github.com/szykor18/szykor18/assets/115345580/195de64c-2a4f-4013-9ce8-9b9a62735258)
 
