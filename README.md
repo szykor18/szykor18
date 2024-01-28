@@ -1,4 +1,4 @@
-<h3>Hi 👋, I'm Szymon</h3>
+![Film bez tytułu ‐ Wykonano za pomocą Clipchamp](https://github.com/szykor18/szykor18/assets/115345580/c24e0398-7120-4151-b39b-e59745b439e1)<h3>Hi 👋, I'm Szymon</h3>
 <h4>An ambitious Software Engineer</h4>
 
 ![](https://komarev.com/ghpvc/?username=szykor18)
@@ -29,6 +29,7 @@
 <hr>
 <div>
   <p>It is the language that chooses the programmer, not the other way around :)</p>
-  <img src="https://static.wikia.nocookie.net/harrypotter/images/5/54/Harry_Potter_being_sorted_PSF.jpg/revision/latest?cb=20150906012040" width="80%" />
+  ![Film bez tytułu ‐ Wykonano za pomocą Clipchamp](https://github.com/szykor18/szykor18/assets/115345580/0d775c23-f045-4afe-9706-344a2006492b)
 </div>
+
 
