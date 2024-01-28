@@ -26,4 +26,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=szykor18&layout=compact&theme=dark&hide_border=true" height="120"/>
   <img src="https://streak-stats.demolab.com?user=szykor18&locale=en&mode=daily&theme=dark&hide_border=true&date_format=j M[ Y]" height="120" alt="streak graph"  />
 </div>
+<hr>
+<div>
+  <p>It is the language that chooses the programmer, not the other way around :)</p>
+  <img src="https://static.wikia.nocookie.net/harrypotter/images/5/54/Harry_Potter_being_sorted_PSF.jpg/revision/latest?cb=20150906012040" width="80%" />
+</div>
 
