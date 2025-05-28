@@ -1,23 +1,12 @@
-<h3>Hi 👋, I'm Szymon</h3>
-<h4>An ambitious Software Engineer</h4>
+<h3>Hi 👋, I'm Szymon</h3> 
+<h4>Software Engineer & Content Creator</h4>
 
-![](https://komarev.com/ghpvc/?username=szykor18)
 
-- 🔭 My latest projects: [Lottery](https://github.com/szykor18/Lottery) and [JobOffers](https://github.com/szykor18/JobOffers)
+🔭 In my free time, I'm building NovCode — a platform for solving real-life coding challenges.
 
-- 🌱 I practice mainly **Java and Spring Framework** to become an expert
+🌱 I believe in using technology to solve problems — not creating problems to fit technology.
 
-- 📫 How to reach me **szymonkornik.bs@gmail.com**
-
-<h3 align="left">Tech stack that I know and practice</h3>
-<p align="left">
-</p>
-<hr>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgresql,mysql,mongodb,redis,git,docker,linux,idea,maven,python,html,css" />
-  </a>
-</p>
+🎥 Check out my <a href="https://www.youtube.com/@Nov_CodeX">YouTube channel</a>. 
 <!-- <hr> -->
 <!-- ![Szymon's GitHub stats](https://github-readme-stats.vercel.app/api?username=szykor18&show_icons=true&theme=gotham) -->
 <hr>
@@ -27,8 +16,4 @@
   <img src="https://streak-stats.demolab.com?user=szykor18&locale=en&mode=daily&theme=dark&hide_border=true&date_format=j M[ Y]" height="120" alt="streak graph"  />
 </div>
 <hr>
-<h3>It is the language that chooses the programmer, not the other way around 😃</h3>
-  <div align="center">
-  <img src="https://github.com/szykor18/szykor18/assets/115345580/489453ba-4434-4530-912b-4342be356958" />
-  </div>
 <hr>
